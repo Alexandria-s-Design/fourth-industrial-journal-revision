@@ -13,3 +13,11 @@
 - `comment_5_push_down_explanation.md` - Formatting guidance
 
 All 10 reviewer comments systematically addressed.
+
+## Status
+Active
+
+## TODO
+- [ ] Complete draft revisions
+- [ ] Submit to journal
+- [ ] Address reviewer feedback
